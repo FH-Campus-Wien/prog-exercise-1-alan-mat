@@ -93,7 +93,7 @@ public class App {
             int rev = sc.nextInt();
             /*
             Ausführung mittels privater Methode, um
-            unzählige if-else Verzweigungen zu vermeiden :)
+            unzählige if-else Verzweigungen zu vermeiden
              */
             System.out.println(rating(rev));
         }
